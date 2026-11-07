@@ -28,7 +28,13 @@ I keep learning by building tools I want to use. Sometimes that starts with a ga
 
 ## Games and tools
 
-**Rune Hold** · A game I run at [tegtt.me](https://tegtt.me/).
+### Rune Hold
+
+A medieval fantasy auto-battler I built with Phaser and TypeScript. Choose your first hero, defend a cottage from waves of monsters, and recruit companions as you turn it into a fortress.
+
+[![Stage 1 of Rune Hold: a warrior defends the cottage as monsters approach](assets/rune-hold-gameplay.jpg)](https://tegtt.me/)
+
+**[Play Rune Hold in your browser →](https://tegtt.me/)**
 
 **[AION2 Config Switcher](https://github.com/Kor-Fresh/Aion2ConfigSwitcherRelease)** · Windows  
 Switch AION2 settings without hunting down `Engine.ini`. The app finds the file and applies the preset you choose for your PC.
