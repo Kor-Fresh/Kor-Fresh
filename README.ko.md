@@ -15,11 +15,16 @@
 
 | 분야 | 기술 |
 | --- | --- |
-| 프론트엔드 | React · Vue |
-| 데이터베이스 | MySQL · MariaDB · SQLite · PostgreSQL |
-| 웹 서버 | NGINX · Apache HTTP Server |
-| 운영체제 · 클라우드 | Linux · Windows · AWS |
-| 버전 관리 | Git |
+| 프론트엔드 | <img src="assets/icons/vuejs.svg" width="20" height="20" alt=""> Vue · <img src="assets/icons/react.svg" width="20" height="20" alt=""> React · <img src="assets/icons/typescript.svg" width="20" height="20" alt=""> TypeScript |
+| 백엔드 · API | <img src="assets/icons/php.svg" width="20" height="20" alt=""> PHP · <img src="assets/icons/python.svg" width="20" height="20" alt=""> Python (<img src="assets/icons/django.svg" width="20" height="20" alt=""> Django, <img src="assets/icons/flask.svg" width="20" height="20" alt=""> Flask) · REST API · WebSocket |
+| 모바일 | <img src="assets/icons/react.svg" width="20" height="20" alt=""> React Native · NativeScript-Vue (Android · iOS) |
+| 데스크톱 | <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C# · <img src="assets/icons/dotnetcore.svg" width="20" height="20" alt=""> .NET · <img src="assets/icons/electron.svg" width="20" height="20" alt=""> Electron |
+| 데이터베이스 | <img src="assets/icons/mysql.svg" width="20" height="20" alt=""> MySQL · <img src="assets/icons/mariadb.svg" width="20" height="20" alt=""> MariaDB · <img src="assets/icons/postgresql.svg" width="20" height="20" alt=""> PostgreSQL · <img src="assets/icons/sqlite.svg" width="20" height="20" alt=""> SQLite · <img src="assets/icons/microsoftsqlserver.svg" width="20" height="20" alt=""> SQL Server · <img src="assets/icons/oracle.svg" width="20" height="20" alt=""> Oracle Database |
+| 캐시 | <img src="assets/icons/redis.svg" width="20" height="20" alt=""> Redis |
+| 운영체제 · 웹 서버 | <img src="assets/icons/linux.svg" width="20" height="20" alt=""> Linux · <img src="assets/icons/windows11.svg" width="20" height="20" alt=""> Windows · <img src="assets/icons/nginx.svg" width="20" height="20" alt=""> NGINX · <img src="assets/icons/apache.svg" width="20" height="20" alt=""> Apache HTTP Server |
+| 클라우드 | <img src="assets/icons/aws.svg" width="20" height="20" alt=""> AWS (EC2, S3, RDS, Lambda, ECS) |
+| 버전 관리 · 배포 | <img src="assets/icons/git.svg" width="20" height="20" alt=""> Git · <img src="assets/icons/docker.svg" width="20" height="20" alt=""> Docker · <img src="assets/icons/githubactions.svg" width="20" height="20" alt=""> GitHub Actions · <img src="assets/icons/jenkins.svg" width="20" height="20" alt=""> Jenkins |
+| 테스트 | <img src="assets/icons/jest.svg" width="20" height="20" alt=""> Jest |
 
 ## 게임과 도구
 
@@ -31,4 +36,4 @@
 **[Keyro](https://github.com/Kor-Fresh/Keyro-Releases)** · Windows x64 · Apple Silicon  
 계정 정보를 카드로 정리하고 필요한 값만 골라 복사할 수 있습니다. 변경 사항은 JSON 파일에 저장하며, 두 플랫폼 모두 실행 파일을 제공합니다.
 
-**파일 압축 프로그램** · 릴리스 공개 예정
+**[Fzip](https://github.com/Kor-Fresh/Fzip)** · 파일과 폴더를 압축하고 다양한 형식의 압축 파일을 풀 수 있는 Windows x64용 무료 프로그램입니다.
