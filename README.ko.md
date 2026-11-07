@@ -16,10 +16,14 @@
 | 분야 | 기술 |
 | --- | --- |
 | 프론트엔드 | React · Vue |
+| 데이터베이스 | MySQL · MariaDB · SQLite · PostgreSQL |
+| 웹 서버 | NGINX · Apache HTTP Server |
 | 운영체제 · 클라우드 | Linux · Windows · AWS |
 | 버전 관리 | Git |
 
-## 게임과 일상에서 만든 도구
+## 게임과 도구
+
+**Rune Hold** · [tegtt.me](https://tegtt.me/)에서 운영하는 게임입니다.
 
 **[AION2 Config Switcher](https://github.com/Kor-Fresh/Aion2ConfigSwitcherRelease)** · Windows  
 매번 `Engine.ini`를 찾아 편집하던 과정을 줄였습니다. 앱이 설정 파일을 찾으면 내 PC에 맞는 프리셋을 골라 적용할 수 있습니다.

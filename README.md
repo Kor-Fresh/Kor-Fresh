@@ -16,10 +16,14 @@ I keep learning by building tools I want to use. Sometimes that starts with a ga
 | Area | Tools |
 | --- | --- |
 | Frontend | React · Vue |
+| Databases | MySQL · MariaDB · SQLite · PostgreSQL |
+| Web servers | NGINX · Apache HTTP Server |
 | Platforms & cloud | Linux · Windows · AWS |
 | Version control | Git |
 
-## Tools I build
+## Games and tools
+
+**Rune Hold** · A game I run at [tegtt.me](https://tegtt.me/).
 
 **[AION2 Config Switcher](https://github.com/Kor-Fresh/Aion2ConfigSwitcherRelease)** · Windows  
 Switch AION2 settings without hunting down `Engine.ini`. The app finds the file and applies the preset you choose for your PC.
