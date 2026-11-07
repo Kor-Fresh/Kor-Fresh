@@ -43,3 +43,11 @@ Switch AION2 settings without hunting down `Engine.ini`. The app finds the file 
 Organize account details into cards, copy individual values, and save changes to a JSON file. Both platforms have downloadable builds.
 
 **[Fzip](https://github.com/Kor-Fresh/Fzip)** · A free Windows x64 app for compressing files and folders and extracting archives in multiple formats.
+
+## iOS apps in development
+
+**Celi** · Preparing for App Store release  
+A family location-sharing app for iPhone. Families can see each other on a map, get alerts when someone arrives at or leaves a saved place, and review the day’s routes. Built with **Swift** and **SwiftUI**, using **MapKit** for maps, **Core Location** for location updates, and **CloudKit** to share data across family devices.
+
+**CeliQ** · Preparing for App Store release  
+An offline collection of educational mini-games for children in grades 1–6, playable on iPhone and iPad. Built with **Swift**, using **SwiftUI** for the interface, **SpriteKit** for the games, and **SwiftData** for local storage.
