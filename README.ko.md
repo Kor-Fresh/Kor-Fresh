@@ -11,14 +11,14 @@
 ## 기술 스택
 
 **언어**  
-<img src="assets/icons/python.svg" width="20" height="20" alt=""> Python &nbsp; <img src="assets/icons/php.svg" width="20" height="20" alt=""> PHP &nbsp; <img src="assets/icons/javascript.svg" width="20" height="20" alt=""> JavaScript &nbsp; <img src="assets/icons/typescript.svg" width="20" height="20" alt=""> TypeScript &nbsp; <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C#
+<img src="assets/icons/python.svg" width="20" height="20" alt=""> Python &nbsp; <img src="assets/icons/php.svg" width="20" height="20" alt=""> PHP &nbsp; <img src="assets/icons/javascript.svg" width="20" height="20" alt=""> JavaScript &nbsp; <img src="assets/icons/typescript.svg" width="20" height="20" alt=""> TypeScript &nbsp; <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C# &nbsp; Swift &nbsp; Rust
 
 | 분야 | 기술 |
 | --- | --- |
 | 프론트엔드 | <img src="assets/icons/vuejs.svg" width="20" height="20" alt=""> Vue · <img src="assets/icons/react.svg" width="20" height="20" alt=""> React · <img src="assets/icons/typescript.svg" width="20" height="20" alt=""> TypeScript |
 | 백엔드 · API | <img src="assets/icons/php.svg" width="20" height="20" alt=""> PHP · <img src="assets/icons/python.svg" width="20" height="20" alt=""> Python (<img src="assets/icons/django.svg" width="20" height="20" alt=""> Django, <img src="assets/icons/flask.svg" width="20" height="20" alt=""> Flask) · REST API · WebSocket |
-| 모바일 | <img src="assets/icons/react.svg" width="20" height="20" alt=""> React Native · NativeScript-Vue (Android · iOS) |
-| 데스크톱 | <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C# · <img src="assets/icons/dotnetcore.svg" width="20" height="20" alt=""> .NET · <img src="assets/icons/electron.svg" width="20" height="20" alt=""> Electron |
+| 모바일 | <img src="assets/icons/react.svg" width="20" height="20" alt=""> React Native · NativeScript-Vue (Android · iOS) · SwiftUI · UIKit · Core Bluetooth · Network.framework |
+| 데스크톱 | <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C# · <img src="assets/icons/dotnetcore.svg" width="20" height="20" alt=""> .NET · <img src="assets/icons/electron.svg" width="20" height="20" alt=""> Electron · SwiftUI (macOS) · Rust (Tokio, btleplug, Enigo) |
 | 데이터베이스 | <img src="assets/icons/mysql.svg" width="20" height="20" alt=""> MySQL · <img src="assets/icons/mariadb.svg" width="20" height="20" alt=""> MariaDB · <img src="assets/icons/postgresql.svg" width="20" height="20" alt=""> PostgreSQL · <img src="assets/icons/sqlite.svg" width="20" height="20" alt=""> SQLite · <img src="assets/icons/microsoftsqlserver.svg" width="20" height="20" alt=""> SQL Server · <img src="assets/icons/oracle.svg" width="20" height="20" alt=""> Oracle Database |
 | 캐시 | <img src="assets/icons/redis.svg" width="20" height="20" alt=""> Redis |
 | 운영체제 · 웹 서버 | <img src="assets/icons/linux.svg" width="20" height="20" alt=""> Linux · <img src="assets/icons/windows11.svg" width="20" height="20" alt=""> Windows · <img src="assets/icons/nginx.svg" width="20" height="20" alt=""> NGINX · <img src="assets/icons/apache.svg" width="20" height="20" alt=""> Apache HTTP Server |
@@ -51,3 +51,6 @@ Phaser와 TypeScript로 만든 중세 판타지 자동 전투 디펜스 게임�
 
 **CeliQ** · App Store 출시 준비 중  
 초등학교 1~6학년 어린이가 iPhone과 iPad에서 인터넷 연결 없이 즐길 수 있는 교육용 미니게임 모음입니다. **Swift**로 개발했으며, 화면은 **SwiftUI**, 미니게임은 **SpriteKit**으로 만들고 기기 내 데이터 저장에는 **SwiftData**를 사용합니다.
+
+**CeliPad** · 개발 중  
+iPhone을 Mac용 블루투스 트랙패드와 TiVo Stream 4K용 Wi-Fi 리모컨으로 사용하는 앱입니다. Mac에서는 두 손가락으로 스크롤하거나 스트림 덱에서 앱을 열 수 있고, TiVo에서는 방향키로 메뉴를 탐색하고 한글 검색어를 입력할 수 있습니다. iPhone 앱은 **SwiftUI**와 **Core Bluetooth**로, Mac 수신기는 **Rust**와 **SwiftUI**로 개발했습니다.

@@ -11,14 +11,14 @@ I keep learning by building tools I want to use. Sometimes that starts with a ga
 ## Tech stack
 
 **Languages**  
-<img src="assets/icons/python.svg" width="20" height="20" alt=""> Python &nbsp; <img src="assets/icons/php.svg" width="20" height="20" alt=""> PHP &nbsp; <img src="assets/icons/javascript.svg" width="20" height="20" alt=""> JavaScript &nbsp; <img src="assets/icons/typescript.svg" width="20" height="20" alt=""> TypeScript &nbsp; <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C#
+<img src="assets/icons/python.svg" width="20" height="20" alt=""> Python &nbsp; <img src="assets/icons/php.svg" width="20" height="20" alt=""> PHP &nbsp; <img src="assets/icons/javascript.svg" width="20" height="20" alt=""> JavaScript &nbsp; <img src="assets/icons/typescript.svg" width="20" height="20" alt=""> TypeScript &nbsp; <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C# &nbsp; Swift &nbsp; Rust
 
 | Area | Technologies |
 | --- | --- |
 | Frontend | <img src="assets/icons/vuejs.svg" width="20" height="20" alt=""> Vue · <img src="assets/icons/react.svg" width="20" height="20" alt=""> React · <img src="assets/icons/typescript.svg" width="20" height="20" alt=""> TypeScript |
 | Backend & APIs | <img src="assets/icons/php.svg" width="20" height="20" alt=""> PHP · <img src="assets/icons/python.svg" width="20" height="20" alt=""> Python (<img src="assets/icons/django.svg" width="20" height="20" alt=""> Django, <img src="assets/icons/flask.svg" width="20" height="20" alt=""> Flask) · REST APIs · WebSocket |
-| Mobile | <img src="assets/icons/react.svg" width="20" height="20" alt=""> React Native · NativeScript-Vue (Android & iOS) |
-| Desktop | <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C# · <img src="assets/icons/dotnetcore.svg" width="20" height="20" alt=""> .NET · <img src="assets/icons/electron.svg" width="20" height="20" alt=""> Electron |
+| Mobile | <img src="assets/icons/react.svg" width="20" height="20" alt=""> React Native · NativeScript-Vue (Android & iOS) · SwiftUI · UIKit · Core Bluetooth · Network.framework |
+| Desktop | <img src="assets/icons/csharp.svg" width="20" height="20" alt=""> C# · <img src="assets/icons/dotnetcore.svg" width="20" height="20" alt=""> .NET · <img src="assets/icons/electron.svg" width="20" height="20" alt=""> Electron · SwiftUI (macOS) · Rust (Tokio, btleplug, Enigo) |
 | Databases | <img src="assets/icons/mysql.svg" width="20" height="20" alt=""> MySQL · <img src="assets/icons/mariadb.svg" width="20" height="20" alt=""> MariaDB · <img src="assets/icons/postgresql.svg" width="20" height="20" alt=""> PostgreSQL · <img src="assets/icons/sqlite.svg" width="20" height="20" alt=""> SQLite · <img src="assets/icons/microsoftsqlserver.svg" width="20" height="20" alt=""> SQL Server · <img src="assets/icons/oracle.svg" width="20" height="20" alt=""> Oracle Database |
 | Cache | <img src="assets/icons/redis.svg" width="20" height="20" alt=""> Redis |
 | Platforms & web servers | <img src="assets/icons/linux.svg" width="20" height="20" alt=""> Linux · <img src="assets/icons/windows11.svg" width="20" height="20" alt=""> Windows · <img src="assets/icons/nginx.svg" width="20" height="20" alt=""> NGINX · <img src="assets/icons/apache.svg" width="20" height="20" alt=""> Apache HTTP Server |
@@ -51,3 +51,6 @@ A family location-sharing app for iPhone. Families can see each other on a map, 
 
 **CeliQ** · Preparing for App Store release  
 An offline collection of educational mini-games for children in grades 1–6, playable on iPhone and iPad. Built with **Swift**, using **SwiftUI** for the interface, **SpriteKit** for the games, and **SwiftData** for local storage.
+
+**CeliPad** · In development  
+Use an iPhone as a Bluetooth trackpad for a Mac or a Wi-Fi remote for a TiVo Stream 4K. Scroll with two fingers and launch Mac apps from the stream deck, or navigate TiVo menus and enter Korean search terms. The iPhone app uses **SwiftUI** and **Core Bluetooth**, and the Mac receiver combines **Rust** with a **SwiftUI** interface.
