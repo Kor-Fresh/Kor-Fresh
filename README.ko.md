@@ -44,7 +44,7 @@ Phaser와 TypeScript로 만든 중세 판타지 자동 전투 디펜스 게임�
 
 **[Fzip](https://github.com/Kor-Fresh/Fzip)** · 파일과 폴더를 압축하고 다양한 형식의 압축 파일을 풀 수 있는 Windows x64용 무료 프로그램입니다.
 
-**CeliFlow** · Windows x64  
+**[CeliFlow](https://github.com/Kor-Fresh/CeliFlow-Releases/releases/latest)** · Windows x64  
 같은 Wi-Fi에서 아이폰 Safari로 영상을 PC에 보낼 수 있습니다. 한 프레임씩 앞뒤로 살펴보며 화면에 선을 그리고, 메모를 남긴 장면으로 다시 이동할 수 있습니다.
 
 ## 개발 중인 iOS 앱

@@ -44,7 +44,7 @@ Organize account details into cards, copy individual values, and save changes to
 
 **[Fzip](https://github.com/Kor-Fresh/Fzip)** · A free Windows x64 app for compressing files and folders and extracting archives in multiple formats.
 
-**CeliFlow** · Windows x64  
+**[CeliFlow](https://github.com/Kor-Fresh/CeliFlow-Releases/releases/latest)** · Windows x64  
 Send videos from iPhone Safari to your PC over Wi-Fi. Step through each frame, draw on the image, and save notes that take you back to the same moment.
 
 ## iOS apps in development
